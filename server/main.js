@@ -16,7 +16,7 @@ Meteor.startup(() => {
   	
   }
 });
-
+//Sería conveniente tener constantes en archivos separados
 var studentsData = 
 [
 {"nombre":"NICOLAS ACEVEDO SANDOVAL","seccion":1,"codigo":201530726,"twitteruser":"n_acevedo11","notas":[2,1,2,-1,2,2,0,2,2,-1,2,2,2,2,2,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],"idtweets":[]},
